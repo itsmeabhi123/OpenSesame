@@ -1,0 +1,20 @@
+body{
+	background-image: url("../images/openback.jpg");
+	background-size: 1400px 900px; 
+
+}
+img{
+	border-radius: 50%;
+}
+#imglogo{
+	margin-top: 200px;
+}
+#pass{
+	margin-top: 14px;
+	margin-left: 37%;
+}
+#status{
+	font-size: 11pt;
+	color: yellow;
+	margin-top: 1%;
+}

@@ -1,0 +1,23 @@
+body{
+	background-image: url("../images/timeout1.jpg");
+	background-size: 1500px 700px;
+}
+#disp{
+	border:1px solid;
+	border-radius: 15px;
+	padding: 2%;
+	padding-top: 3%;
+	background-color: rgb(150,150,150,.05);
+	margin-top: 25%;
+	
+}
+#btn{
+	margin-top: 10%;
+	margin-bottom: 4%;
+}
+
+#hd{
+	font-weight: bold;
+	font-size: 18pt;
+	color: white;
+}

@@ -1,0 +1,23 @@
+body{
+	background-image: url("../images/source.gif");
+	background-size: 1100px : 
+	background-repeat:no-repeat;
+}
+#disp{
+	margin-top: 25%;
+	border:1px solid;
+	border-radius: 15px;
+	padding: 2%;
+	padding-top: 3%;
+	background-color: rgba(255,255,255,.8);
+	
+}
+#btn{
+	margin-top: 10%;
+	margin-bottom: 4%;
+}
+#hd{
+	color:black;
+	font-size: 25px;
+	font-weight: bold;
+}

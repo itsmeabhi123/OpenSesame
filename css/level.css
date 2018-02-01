@@ -1,0 +1,40 @@
+body{
+	background-image: url("../images/black2.jpg");
+	padding-left:2%;
+	padding-right:3%;
+}
+
+#timer{
+	margin-top:5%;
+	margin-left: 6%;
+}
+.min,.sec{
+	padding:15px;
+	font-size:20px; 
+}
+.sec{
+	margin-left: 3%;
+}
+
+#answer{
+	margin-top:10%;
+}
+
+.btn{
+	margin-top:10px;
+}
+#status{
+	color: yellow;
+}
+h2{
+	color:white;
+	margin-top: 7%;
+	font-weight: bold;
+}
+h3{
+	font-weight: bold;
+	color:white;
+}
+#qstn{
+	
+}

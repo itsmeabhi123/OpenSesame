@@ -1,0 +1,34 @@
+body{
+	background-image: url("../images/thanks.jpg");
+	background-size: 1400px 800px;
+	
+}
+
+#datas{
+	margin-top:20px;
+	border-radius: 10px;
+	padding:4%;
+	padding-right:0px;
+	padding-left:9%;
+	padding-top: 70px;
+	box-shadow:10px 10px 5px grey;
+	background-color: rgba(210,210,210,.75);
+	height:30%;
+	font-weight: bold;
+}
+#btnsub{
+	margin-top:1%;
+	padding-left:8%;
+	padding-right:8%;
+	margin-bottom: 2%: 
+}
+#hd{
+	margin-top: 140px;
+	height:100%;
+	font-weight: bold;
+	font-size: 14pt;
+}
+#lbl
+{
+	font-weight: bold;
+}
